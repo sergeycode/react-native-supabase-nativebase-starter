@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <div align="center">
@@ -8,7 +10,7 @@
   <h3 align="center">React Native Supabase Starter with NativeBase</h3>
 
   <p align="center">
-    React Native Supabase Starter with NativeBase to jumpstart your React Native project!
+    React Native Supabase Starter with NativeBase to jumpstart your React Native project.
   </p>
 </div>
 
@@ -62,18 +64,20 @@ Included Features:
 
 ## Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Get a free API Key at [![Supabase][supabase]][supabase-url]
 2. Clone the repo
    ```sh
-   git clone https://github.com/sergeycode/react-native-supabase-nativebase-starter
+   git clone https://github.com/sergeycode/react-native-supabase-nativebase-starter.git
    ```
 3. Install NPM packages
    ```sh
    npm install
    ```
 4. Rename `env-example` to `.env` and enter your Supabase keys
+5. Run on iOS
+   ```sh
+   npm run ios
+   ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,5 +123,5 @@ Github pages - [https://sergeycode.github.io/](https://sergeycode.github.io/)
 [react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [react-native]: https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 [supabase]: https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge
-[native-base]: https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%2361DAFB
+[native-base]: https://img.shields.io/badge/native_base-%2320232a.svg?style=for-the-badge&logo=github&logoColor=%2361DAFB
 [typescript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
