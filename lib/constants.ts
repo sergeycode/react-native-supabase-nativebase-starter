@@ -1,4 +1,4 @@
-if (!process.env.SUPABASE_URL) {
+if (!process.env.REACT_NATIVE_SUPABASE_URL) {
   console.log('constants.ts', 'Make sure you have a `.env` file to populate your variables.')
 }
 
